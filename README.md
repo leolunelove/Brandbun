@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="brandbun-ink.png" width="80" height="80" alt="">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brandbun-ink-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="brandbun-ink.png">
+    <img src="brandbun-ink.png" width="80" height="80" alt="">
+  </picture>
 </p>
 
 <h1 align="center">brandbun</h1>
