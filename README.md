@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="brandbun-ink-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="brandbun-ink.png">
-    <img src="brandbun-ink.png" width="80" height="80" alt="">
+    <source media="(prefers-color-scheme: dark)" srcset="brandbun-ink-white-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="brandbun-ink-v2.png">
+    <img src="brandbun-ink-v2.png" width="96" height="96" alt="brandbun ink-bun logo">
   </picture>
 </p>
 
@@ -17,6 +17,8 @@
 </p>
 
 ---
+
+[View the visual brand book](brandbun-brand-book.pdf)
 
 ## Create, collect, share
 
@@ -43,7 +45,7 @@ Before sign-in, guides are saved in this browser. Clearing browser data can remo
 
 After signing in and saving your device library to your email, guides and uploaded files are stored privately in the cloud. Access is enforced through Supabase database and storage policies. Invite recipients receive access to the guide you share; they cannot edit it.
 
-A downloaded backup is a separate recovery copy. Automatic Google Drive backups are not available yet.
+A downloaded backup is a separate recovery copy. Automatic cloud backups are not enabled.
 
 ## Repository guide
 
@@ -53,7 +55,7 @@ This repository contains the published web build served by GitHub Pages.
 | --- | --- |
 | [`index.html`](index.html) | App entry point |
 | `index-*.js`, `index-*.css` | Compiled application and styles |
-| [`brandbun-ink.png`](brandbun-ink.png) | brandbun’s ink-bun mark |
+| [`brandbun-ink-v2.png`](brandbun-ink-v2.png) | brandbun’s ink-bun mark |
 | [`CNAME`](CNAME) | Custom domain configuration |
 
 GitHub Pages serves the repository root from `main` at [brandbun.ink](https://brandbun.ink/). The editable application source and database setup are maintained separately from this deployment repository.
