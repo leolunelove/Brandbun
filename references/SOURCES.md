@@ -1,6 +1,6 @@
 # Discover editorial studies
 
-These independent studies demonstrate a completed brandbun guide. They are not guides published or endorsed by the featured organisations. They use original source artwork, not recreated logos. Rights to marks and artwork stay with their respective owners. This collection does not grant permission to reuse third-party marks or media.
+These independent studies demonstrate a completed brandbun guide. They are not guides published or endorsed by the featured organisations. They use credited source artwork, with reproductions and derivations identified below. Rights to marks and artwork stay with their respective owners. This collection does not grant permission to reuse third-party marks or media.
 
 `manifest.json` records each exact source URL, byte size, dimensions where applicable, and SHA-256. Images and fonts are bundled locally, so reading a study does not hotlink third-party files. Source guidelines can change; recheck them before updating a study.
 
@@ -59,3 +59,26 @@ Editorial descriptions and type-specimen sentences are written for this study; t
 - IBM Plex Sans Regular and SemiBold: https://github.com/IBM/plex . The SIL OFL licence is included in `ibm/OFL.txt`.
 - Flat illustration: original examples from https://www.ibm.com/design/language/illustration/flat-style/design/ . Artwork © IBM.
 - Selected colours form an excerpt, not a substitute for the full colour/contrast specifications. IBM marks remain IBM's.
+
+## Burger King — food
+
+- Identity study: https://www.jkrglobal.com/work/burger-king (the design agency's own case study). Packaging and food photos are 1400px web renditions, credited to Burger King and JKR.
+- Logo geometry: `BkLogoPrimary` in the JavaScript bundle publicly linked by https://www.bk.com/ . The SVG serialises the exact two source paths and `0 0 73 80` viewBox. Standard fills are `#FF8732` and the published `rgb(214,35,0)` fiery-red value. No tracing or generated logo artwork was used. The exact bundle URL and derivation are in the manifest.
+- Cream is the published site background; logo colours come from the component. Brown is explicitly an editorial supporting tone. This is not a certified production palette.
+- JKR's public brand material identifies the custom Flame typeface. Proprietary font files are not bundled; specimens explicitly use Arial for comparison.
+
+## Levi's — fashion
+
+- Brand website: https://www.levi.com/ ; company: https://www.levistrauss.com/
+- SVG reproduction: https://commons.wikimedia.org/wiki/File:Levi's_logo.svg . The file history attributes the design to Levi Strauss & Co. and links its official website. This is a credited third-party reproduction, not a claimed official asset pack. The original SVG is unchanged.
+- Photograph: public landing page at https://www.b2bportal.levistrauss.com/ , original Wix-hosted image URL in the manifest. The bundled image is an uncropped 1400px JPEG preview, with an original-file link in the book.
+- Red follows the SVG; denim, paper and ink are explicitly editorial supporting tones. No claim is made that these form an official palette.
+- Arial is a labelled system-font comparison. No proprietary brand fonts or internal-marked manual material are included. No internal contact details were copied into the guide.
+
+## IKEA — lifestyle
+
+- Original signature SVG and room photographs: https://www.ikea.com/global/en/ . Photos use the site's 1100px (`f=xxl`) renditions. Credit: Inter IKEA Systems B.V.
+- Blue `#0058A3` and yellow `#FFDB00` come directly from the SVG fills. Supporting charcoal is labelled editorial.
+- Noto IKEA is named in the brand's own historical identity announcement: https://www.ikea.com/global/en/newsroom/retail/ikea-announces-new-coworker-clothing-191113/
+- The type specimens use a labelled Noto Sans comparison. These locally bundled, Latin WOFF2 files were supplied by Google Fonts; the SIL OFL licence is included in `ikea/OFL.txt`. They are not IKEA's customised font files.
+- IKEA names, logo and photography remain the property of their respective rights holders. This reference does not imply approval or grant permission for reuse.

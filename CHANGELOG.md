@@ -1,5 +1,12 @@
 # Changelog
 
+## 24 November 2026 — food, fashion and lifestyle
+
+- Add complete Burger King, Levi’s and IKEA reference books, bringing Discover to nine examples.
+- Lead the collection with food and packaging, denim and home interiors.
+- Include credited artwork, source links, colour-study notes and clearly labelled type comparisons.
+
+
 ## 24 November 2026 — six complete Discover examples
 
 - Explore GitHub, Mozilla, NASA, Spotify, Slack and IBM as complete, independent reference studies.

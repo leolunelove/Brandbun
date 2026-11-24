@@ -286,5 +286,89 @@
     "source": "https://raw.githubusercontent.com/IBM/plex/master/LICENSE.txt",
     "bytes": 4456,
     "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+  },
+  {
+    "file": "burger-king/logo.svg",
+    "source": "https://www.bk.com/_expo/static/js/web/index-772db2d984db00955e1c524063897fd0.js",
+    "bytes": 7850,
+    "sha256": "abea8068ea54a35722e8dc690c039e7d98b38062601e2cf2fd384bac6cf2b6f1",
+    "width": 73.0,
+    "height": 80.0,
+    "derivation": "SVG path data and viewBox from published BkLogoPrimary component, serialised without changing geometry. Standard fills: #FF8732 and rgb(214,35,0)."
+  },
+  {
+    "file": "burger-king/packaging.jpg",
+    "source": "https://cdn.sanity.io/images/w5a1ne1i/production/7446daf0981507363de841e16b511aaa335b3be6-1860x1047.webp?w=1400&q=85&fm=jpg",
+    "bytes": 74979,
+    "sha256": "69eb680f6048f2536785c8537eb11a2e64740e634ea25538ad6ed839b27d489d",
+    "width": 1400,
+    "height": 788
+  },
+  {
+    "file": "burger-king/food-photography.jpg",
+    "source": "https://cdn.sanity.io/images/w5a1ne1i/production/828ef2e69027b47f6145375c02b6667de8e37b18-1860x1047.webp?w=1400&q=85&fm=jpg",
+    "bytes": 387689,
+    "sha256": "83cc05dce3e506a9825bea970ed28044b31e3aebdfd47cd86afb1cca55f81d68",
+    "width": 1400,
+    "height": 788
+  },
+  {
+    "file": "levis/logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Levi's_logo.svg",
+    "bytes": 2690,
+    "sha256": "977aa4de5b6a205306b6eba8341c80385eb0dc8af160eba503d9bb0cce996ada",
+    "width": 77.0,
+    "height": 32.0
+  },
+  {
+    "file": "levis/lifestyle.jpg",
+    "source": "https://static.wixstatic.com/media/2b180d_14fe55d87d58403db1a1447c6f339b66~mv2.jpg",
+    "bytes": 162937,
+    "sha256": "190f1b73755093dd6daf3a865b6545ad76d06d5f738782dc2ba7dac1eba3455c",
+    "width": 1400,
+    "height": 933,
+    "derivation": "Uncropped 1400px JPEG preview of the public B2B landing-page photograph. Original linked in the guide."
+  },
+  {
+    "file": "ikea/logo.svg",
+    "source": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+    "bytes": 1521,
+    "sha256": "e4f93deb71f7099a91265abfe4d4e09447fb4c098f5a3f2af235d2109c345d83",
+    "width": 98.36,
+    "height": 40.0
+  },
+  {
+    "file": "ikea/living-room.jpg",
+    "source": "https://www.ikea.com/global/en/media/PH_300282_9c56fbe456.jpg?f=xxl",
+    "bytes": 195001,
+    "sha256": "e242f4a965c1276340099427ed0f9d50dde8ce4ded4dad420dd1b89d150654ed",
+    "width": 1100,
+    "height": 1099
+  },
+  {
+    "file": "ikea/kitchen.jpg",
+    "source": "https://www.ikea.com/global/en/media/PH_208267_7706f9c2d0.jpg?f=xxl",
+    "bytes": 87803,
+    "sha256": "166a6aecd66a9a923ee81dd556aaa7ca5c82ee3768393d1cf61d40381798767c",
+    "width": 1100,
+    "height": 700
+  },
+  {
+    "file": "ikea/OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/OFL.txt",
+    "bytes": 4396,
+    "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+  },
+  {
+    "file": "ikea/noto-sans-regular.woff2",
+    "source": "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
+    "bytes": 35856,
+    "sha256": "afc7a910f4ff04ee2ff7b3a2ef8b24f8340b8ea8d8125f2779f1f0b69d1b56b9"
+  },
+  {
+    "file": "ikea/noto-sans-semibold.woff2",
+    "source": "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
+    "bytes": 35856,
+    "sha256": "afc7a910f4ff04ee2ff7b3a2ef8b24f8340b8ea8d8125f2779f1f0b69d1b56b9"
   }
 ]
