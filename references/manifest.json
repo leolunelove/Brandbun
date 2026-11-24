@@ -1,0 +1,290 @@
+[
+  {
+    "file": "github/lockup-black.svg",
+    "source": "https://brand.github.com/GitHub_Logos.zip",
+    "bytes": 3946,
+    "sha256": "802172fd58f2956be454f45e07c351d5c3d6830554632796b8f16fcecc7d273b",
+    "width": 416.0,
+    "height": 95.0
+  },
+  {
+    "file": "github/invertocat-black.svg",
+    "source": "https://brand.github.com/GitHub_Logos.zip",
+    "bytes": 1559,
+    "sha256": "693d7abe6f899646cc2e96856723b45e95f71885a54910b2749f6decdf7e1ee1",
+    "width": 98.0,
+    "height": 96.0
+  },
+  {
+    "file": "github/invertocat-white.svg",
+    "source": "https://brand.github.com/GitHub_Logos.zip",
+    "bytes": 1559,
+    "sha256": "ccd84c89b1056345608fc3489357f8acc7397e49a3cdc2d418b6c8016911d47b",
+    "width": 98.0,
+    "height": 96.0
+  },
+  {
+    "file": "github/illustration.png",
+    "source": "https://brand.github.com/_next/static/media/Key-Illustration-1.1ce156a2.png",
+    "bytes": 43556,
+    "sha256": "2bca72ce43d3955a590da886e7cac3e7c27cb0402bc81faddfdac7ea9670ed1e",
+    "width": 737,
+    "height": 415
+  },
+  {
+    "file": "github/contribution-blocks.png",
+    "source": "https://brand.github.com/_next/static/media/Illustration-Contribution-Blocks.bf186acc.png",
+    "bytes": 6571,
+    "sha256": "5c46ee7a6ec5ea4009cb6ba7292e7876def4c9fe1f1c55726d374653fd002586",
+    "width": 1510,
+    "height": 668
+  },
+  {
+    "file": "github/mona-sans.woff2",
+    "source": "https://raw.githubusercontent.com/github/mona-sans/main/fonts/webfonts/static/MonaSans-Regular.woff2",
+    "bytes": 60104,
+    "sha256": "c87e8077d26694c2c41596475d2948cf3e697852db7e75e40a953e9baae7c02b"
+  },
+  {
+    "file": "github/mona-sans-semibold.woff2",
+    "source": "https://raw.githubusercontent.com/github/mona-sans/main/fonts/webfonts/static/MonaSans-SemiBold.woff2",
+    "bytes": 60852,
+    "sha256": "b55052d414ca8a800db737e423a0b896cc1002fbf63a29468ac90a135bccd134"
+  },
+  {
+    "file": "github/OFL.txt",
+    "source": "https://raw.githubusercontent.com/github/mona-sans/main/OFL.txt",
+    "bytes": 4419,
+    "sha256": "9261dcb61fb5e3c587d50d7a9fdae12bc7422d8822d7ac06b8f34550479575de"
+  },
+  {
+    "file": "mozilla/lockup-black.svg",
+    "source": "https://raw.githubusercontent.com/mozilla/bedrock/main/media/img/logos/m24/lockup-black.svg",
+    "bytes": 1244,
+    "sha256": "5f352a7d1dbeff43a0f33b4bb079b43c84010e7cb37570aab7f1e3a9cd8a15d8",
+    "width": 983.6,
+    "height": 235.2
+  },
+  {
+    "file": "mozilla/lockup-white.svg",
+    "source": "https://raw.githubusercontent.com/mozilla/bedrock/main/media/img/logos/m24/lockup-white.svg",
+    "bytes": 1256,
+    "sha256": "f3d5ee30a30b42a0a4f34ae7aef08e6b807757c3dc8b4469959a221ae946fdb2",
+    "width": 983.6,
+    "height": 235.2
+  },
+  {
+    "file": "mozilla/symbol-black.svg",
+    "source": "https://raw.githubusercontent.com/mozilla/bedrock/main/media/img/logos/m24/symbol-black.svg",
+    "bytes": 377,
+    "sha256": "820a6b6f81bb572193631dc0b018b90b10e9ef408c0febef01fc9f67f4481cf7",
+    "width": 199.1,
+    "height": 233.1
+  },
+  {
+    "file": "mozilla/community-1216.jpg",
+    "source": "https://raw.githubusercontent.com/mozilla/bedrock/main/media/img/mozorg/about/m24/community-1216.jpg",
+    "bytes": 180537,
+    "sha256": "5f4909e33caa9fa55048c5accbc7516f668784999f9b98ddc6258fb5c0b744f0",
+    "width": 1216,
+    "height": 521
+  },
+  {
+    "file": "mozilla/manifesto-1216.jpg",
+    "source": "https://raw.githubusercontent.com/mozilla/bedrock/main/media/img/mozorg/about/m24/manifesto-1216.jpg",
+    "bytes": 194467,
+    "sha256": "8238199631347797c2121ca0e6aa5b8e9b07cbdbba60167a6374fe58450cec1f",
+    "width": 1216,
+    "height": 521
+  },
+  {
+    "file": "mozilla/MozillaHeadline-Regular.woff2",
+    "source": "https://raw.githubusercontent.com/mozilla/protocol/main/assets/fonts/mozilla-headline/MozillaHeadline-Regular.woff2",
+    "bytes": 28536,
+    "sha256": "1d17482560157718a66cc43639dfb16fff995fa5a363389fa1a3e5253762d7ba"
+  },
+  {
+    "file": "mozilla/MozillaText-Regular.woff2",
+    "source": "https://raw.githubusercontent.com/mozilla/protocol/main/assets/fonts/mozilla-text/MozillaText-Regular.woff2",
+    "bytes": 26384,
+    "sha256": "1153e6a3191bb14dd40cf167d93ab5da23799309cb096c705f3fe6e06fb8d2af"
+  },
+  {
+    "file": "mozilla/LICENSE.txt",
+    "source": "https://raw.githubusercontent.com/mozilla/protocol/main/LICENSE",
+    "bytes": 16726,
+    "sha256": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04"
+  },
+  {
+    "file": "nasa/insignia-elements.png",
+    "source": "https://www.nasa.gov/wp-content/uploads/2023/07/nasa-insignia-elements-1.png",
+    "bytes": 73577,
+    "sha256": "3f17f0868d5983fe9c9bb5ec3e3206ccc229906ff8ad90aa9114b7e4ee6d573b",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "nasa/public-sans.woff2",
+    "source": "https://www.nasa.gov/wp-content/client-mu-plugins/uswds-framework/uswds/fonts/public-sans/PublicSans-Regular.woff2",
+    "bytes": 32548,
+    "sha256": "bea988eeadc7c0ddf9644c2dce7efb35f1767eac0187c0967f8a2567473cbbfe"
+  },
+  {
+    "file": "nasa/inter.woff2",
+    "source": "https://www.nasa.gov/wp-content/client-mu-plugins/uswds-framework/uswds/fonts-split/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2",
+    "bytes": 37924,
+    "sha256": "450f3ba4e47ee174bd9692b396f264b907d37d2528f53911760f3d0edb785f7e"
+  },
+  {
+    "file": "nasa/cosmic-cliffs.png",
+    "source": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2022/07/STScI-01GA6KKWG229B16K4Q38CH3BXS.png?w=1280&h=741&fit=clip",
+    "bytes": 2425449,
+    "sha256": "4f7cfde15625d1aede4b37fb48a5ef72fabc0b278e3a11fb7a3b04d4acd07500",
+    "width": 1280,
+    "height": 741
+  },
+  {
+    "file": "mozilla/MozillaHeadline-SemiBold.woff2",
+    "source": "https://raw.githubusercontent.com/mozilla/protocol/main/assets/fonts/mozilla-headline/MozillaHeadline-SemiBold.woff2",
+    "bytes": 28720,
+    "sha256": "435b82048776b334bfb6768a3909aee9147d13bb43d7526fd4923ae110da80a1"
+  },
+  {
+    "file": "nasa/insignia.svg",
+    "source": "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg",
+    "bytes": 6592,
+    "sha256": "e03e455100c083590c507df7870c3887a9f2298388cf6f421b6d72bc7eae9008",
+    "width": 110.0,
+    "height": 92.0
+  },
+  {
+    "file": "mozilla/mozilla-headline-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/mozillaheadline/OFL.txt",
+    "bytes": 4407,
+    "sha256": "d0f4ab49be920e6c7b99a1b51d7f35aa85a38afdd4a22db9fd4b4dab2390d178"
+  },
+  {
+    "file": "mozilla/mozilla-text-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/mozillatext/OFL.txt",
+    "bytes": 4399,
+    "sha256": "7796681a32b924d2dc5186e514bd53848dd72359f8f3f413797107a478ef1940"
+  },
+  {
+    "file": "nasa/inter-OFL.txt",
+    "source": "https://raw.githubusercontent.com/rsms/inter/master/LICENSE.txt",
+    "bytes": 4380,
+    "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+  },
+  {
+    "file": "nasa/public-sans-OFL.txt",
+    "source": "https://raw.githubusercontent.com/uswds/public-sans/develop/LICENSE.md",
+    "bytes": 6709,
+    "sha256": "82f0d3cad45f264192db156360b4a710fe7060885f6aa261e6539f13cb9eb0d9"
+  },
+  {
+    "file": "spotify/lockup-green.svg",
+    "source": "https://developer.spotify.com/images/guidelines/design/2024-spotify-full-logo.zip",
+    "bytes": 4522,
+    "sha256": "6e01367cde4cb752b11fd9250becc4a579d1f40bdddaaf23522f27aaa5cf8d70",
+    "width": 823.46,
+    "height": 225.25
+  },
+  {
+    "file": "spotify/lockup-black.svg",
+    "source": "https://developer.spotify.com/images/guidelines/design/2024-spotify-full-logo.zip",
+    "bytes": 4509,
+    "sha256": "b91219c14405166e3667deb7f250df4b939a8a5dbc8460ee9525a75672ba9ec5",
+    "width": 823.46,
+    "height": 225.25
+  },
+  {
+    "file": "spotify/lockup-white.svg",
+    "source": "https://developer.spotify.com/images/guidelines/design/2024-spotify-full-logo.zip",
+    "bytes": 4519,
+    "sha256": "31cdfcdd58d3533a32d287267a1c404f376749b1fc4da99e4baa2233684f053c",
+    "width": 823.46,
+    "height": 225.25
+  },
+  {
+    "file": "spotify/icon-green.svg",
+    "source": "https://developer.spotify.com/images/guidelines/design/2024-spotify-logo-icon.zip",
+    "bytes": 1255,
+    "sha256": "ead72f82725038389cca09f439fdb7807640e122500c934f2500c7036bf40dbb",
+    "width": 236.05,
+    "height": 225.25
+  },
+  {
+    "file": "spotify/clear-space.svg",
+    "source": "https://developer-assets.spotifycdn.com/images/guidelines/design/legibility.svg",
+    "bytes": 129357,
+    "sha256": "45a3def236adbcc67b70e63839c7294c02e2f261560e5b0d7d5f96679b5161cb",
+    "width": 1741.0,
+    "height": 387.0
+  },
+  {
+    "file": "slack/symbol.svg",
+    "source": "https://a.slack-edge.com/1f40066/marketing/img/nav/logo.svg",
+    "bytes": 2101,
+    "sha256": "1f40066b694020057218c46eb2a11982b278d89b2dc8f96a21e4ea04e2b9db3b",
+    "width": 54.0,
+    "height": 54.0
+  },
+  {
+    "file": "slack/product.jpg",
+    "source": "https://a.slack-edge.com/c825b33/marketing/img/media-kit/img-product-screenshots.jpg",
+    "bytes": 26978,
+    "sha256": "c825b336f5e92845201cbc27bf18a1b04f8b9dc25d703822c66c063244814ced",
+    "width": 330,
+    "height": 200
+  },
+  {
+    "file": "slack/brand-centre.jpg",
+    "source": "https://a.slack-edge.com/b518eae/marketing/img/media-kit/img-brand-center.jpg",
+    "bytes": 19113,
+    "sha256": "555bc38c21afb3ed35cc94024dda080cfce8ce2b9ee54cabe22bcd26177177ed",
+    "width": 330,
+    "height": 200
+  },
+  {
+    "file": "ibm/8-bar.svg",
+    "source": "https://www.ibm.com/design/language/2285fa814297ab5eb0ffa21d2ee009db/ibm.svg",
+    "bytes": 6609,
+    "sha256": "e04c17b10b3407363a56270f043d65040ef6c2e1e3ddb6fdb4d44450d09b8c45",
+    "width": 50.0,
+    "height": 21.0
+  },
+  {
+    "file": "ibm/flat-illustration.png",
+    "source": "https://www.ibm.com/design/language/static/c8c5acf1ea607291e43a2784a003090b/3cbba/flat-1.png",
+    "bytes": 11296,
+    "sha256": "51202503cafa26c177fe6adf245f89bf7c4a94191a02d5be541211eb24b436dd",
+    "width": 1152,
+    "height": 648
+  },
+  {
+    "file": "ibm/flat-illustration-2.png",
+    "source": "https://www.ibm.com/design/language/static/9959ed95d82d14d41df2aa8034fd6877/a5df1/flat-2.png",
+    "bytes": 7265,
+    "sha256": "ee8f5e955d0bc8c54711af39173d8464940877e6633b4ce447976cd0c3d09b9e",
+    "width": 576,
+    "height": 576
+  },
+  {
+    "file": "ibm/plex-sans.woff2",
+    "source": "https://raw.githubusercontent.com/IBM/plex/master/packages/plex-sans/fonts/split/woff2/IBMPlexSans-Regular-Latin1.woff2",
+    "bytes": 21300,
+    "sha256": "bdb53f2af84b15e0a742428f5e199dacc3e6fd60776f0aebd9f700e2c97c960f"
+  },
+  {
+    "file": "ibm/plex-sans-semibold.woff2",
+    "source": "https://raw.githubusercontent.com/IBM/plex/master/packages/plex-sans/fonts/split/woff2/IBMPlexSans-SemiBold-Latin1.woff2",
+    "bytes": 22736,
+    "sha256": "8251b7fc61b580c2f52550fa69b3c49fb94fc333815ad301ca6b1f6d15420f85"
+  },
+  {
+    "file": "ibm/OFL.txt",
+    "source": "https://raw.githubusercontent.com/IBM/plex/master/LICENSE.txt",
+    "bytes": 4456,
+    "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+  }
+]

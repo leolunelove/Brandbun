@@ -1,5 +1,13 @@
 # Changelog
 
+## 24 November 2026 — six complete Discover examples
+
+- Explore GitHub, Mozilla, NASA, Spotify, Slack and IBM as complete, independent reference studies.
+- Open artwork-led books with logos, colours, typography, supporting assets and original-source links.
+- Inspect original logo files with clear space and contrasting preview surfaces.
+- Identify font comparisons and dated references clearly; include artwork credits and usage notes.
+
+
 ## 24 November 2026 — saving and Discover
 
 - Keep interrupted cloud edits in a recovery draft, with clearer retry and conflict choices.
