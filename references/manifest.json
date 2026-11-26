@@ -370,5 +370,104 @@
     "source": "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
     "bytes": 35856,
     "sha256": "afc7a910f4ff04ee2ff7b3a2ef8b24f8340b8ea8d8125f2779f1f0b69d1b56b9"
+  },
+  {
+    "file": "oatly/logo.png",
+    "source": "https://www.oatly.com/images/oatly-logo.png",
+    "sourcePage": "https://www.oatly.com/en-gb",
+    "credit": "Oatly",
+    "note": "Unmodified website identity image; opaque white background.",
+    "bytes": 61574,
+    "sha256": "2dbd5490bef066668359b28db367193796b82ae83125ea7c8db03f6dff0b1587",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "oatly/packaging.webp",
+    "source": "https://a.storyblok.com/f/107921/2720x1268/0589273691/originalb.webp/m/1400x0/filters:quality(85)",
+    "sourcePage": "https://www.oatly.com/en-gb",
+    "credit": "Oatly",
+    "note": "Uncropped 1400px server rendition of public website imagery.",
+    "bytes": 89624,
+    "sha256": "46f581bb255835ceaaec87433477a5800153d7f11216322b2aa202176fe8b0c4",
+    "width": 1400,
+    "height": 653
+  },
+  {
+    "file": "oatly/identity-in-use.webp",
+    "source": "https://a.storyblok.com/f/107921/2721x2721/35c610b9fd/photo.webp/m/1000x0/filters:quality(85)",
+    "sourcePage": "https://www.oatly.com/en-gb",
+    "credit": "Oatly",
+    "note": "Uncropped 1000px server rendition of public website lifestyle photography.",
+    "bytes": 186832,
+    "sha256": "b5b29e928bbc551f41589a4c023e99a39c24583634a8fb718658f1a509b2597b",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "patagonia/wordmark.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Patagonia_%28Unternehmen%29_logo.svg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Patagonia_(Unternehmen)_logo.svg",
+    "credit": "Patagonia; vector conversion credited to Marsupilami in Commons history",
+    "note": "Unmodified Commons reproduction; not an official asset pack.",
+    "bytes": 11701,
+    "sha256": "7a00db004d881ddd30360254f2676621eed1184ab4ad3207ad437818158b7894",
+    "width": 286.68975,
+    "height": 55.915
+  },
+  {
+    "file": "patagonia/trail-running.jpg",
+    "source": "https://dis.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw65792ccb/hero/PAT_F26_WornWear_TradeIn_hero-etzel_ken_02329_cc_WEB.jpg?q=85&sw=1400",
+    "sourcePage": "https://www.patagonia.com/home/",
+    "credit": "Ken Etzel / Patagonia. Tori Orlowski in the Sierra Nevada, California.",
+    "note": "Website 1400px rendition. Photographer and caption credited on the source page.",
+    "bytes": 241186,
+    "sha256": "60fd1e5954df6195e93fdabe61588f7f78d539cf7b5e86e2f27967984986dc89",
+    "width": 1400,
+    "height": 788
+  },
+  {
+    "file": "patagonia/outdoors.jpg",
+    "source": "https://images.squarespace-cdn.com/content/v1/535ae1f7e4b0d43c82387e3e/1399420899693-7FR4H64ZY28J7MY3E9FX/schaefer_m_0631_cc_WEB_top.jpg",
+    "sourcePage": "https://www.patagoniaworks.com/",
+    "credit": "Patagonia Works; source filename schaefer_m_0631_cc_WEB_top.jpg",
+    "note": "Unmodified published homepage image. Photographer not independently confirmed.",
+    "bytes": 321181,
+    "sha256": "d3f1a9d137fc9aece07713cd9050836ea6b6959d2806c0a4c331ce6392efef90",
+    "width": 1400,
+    "height": 917
+  },
+  {
+    "file": "muji/lockup.svg",
+    "source": "https://cdn11.bigcommerce.com/s-36unquhwg5/stencil/eb8d0ea0-bf0a-013f-53cd-4a9106d7c145/e/4c87ead0-bc2d-013f-a486-2e74b5adbdf3/img/logos/logo-inline-black.svg",
+    "sourcePage": "https://www.muji.eu/pages/about-muji.html",
+    "credit": "MUJI / Ryohin Keikaku",
+    "note": "Unmodified inline black lockup from the official European website.",
+    "bytes": 3798,
+    "sha256": "7791b47383dd6f426b08c3dc025221307ba218d5af59d5c0c7babee3296a537c",
+    "width": 271.367,
+    "height": 42.52
+  },
+  {
+    "file": "muji/materials.jpg",
+    "source": "https://cdn11.bigcommerce.com/s-4b0oh2xvlj/images/stencil/1280w/image-manager/about-muji-process-background-2560x1920-04.jpg?t=1744389652",
+    "sourcePage": "https://www.muji.eu/pages/about-muji.html",
+    "credit": "MUJI / Ryohin Keikaku",
+    "note": "Uncropped 1280px server rendition of the public brand story photography.",
+    "bytes": 231610,
+    "sha256": "2822e8ec3df685ae57699bdf5440d365069cd33cee092e1d060dc0379573e71e",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "file": "muji/everyday-life.jpg",
+    "source": "https://cdn11.bigcommerce.com/s-4b0oh2xvlj/images/stencil/1280w/image-manager/about-muji-life-background-2560x1920-01.jpg?t=1744724033",
+    "sourcePage": "https://www.muji.eu/pages/about-muji.html",
+    "credit": "MUJI / Ryohin Keikaku",
+    "note": "Uncropped 1280px server rendition of the public brand story photography.",
+    "bytes": 372200,
+    "sha256": "d8ffac44fcca6d76a72e1a5466f4d02cbeef389079ea587d05938ec10971d30e",
+    "width": 1280,
+    "height": 960
   }
 ]

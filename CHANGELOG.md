@@ -1,5 +1,11 @@
 # Changelog
 
+## 26 November 2026 — smaller layout and a consistent guide
+
+- Scale the interface with the viewport, with smaller titles, spacing, covers, cards and dialogs, readable form text and comfortable touch controls.
+- Keep every guide in the same order: Overview, Logos, Colours, Typography, Assets, Links. Remove section dragging and move controls; keep direct editing of brand details.
+- Add complete Oatly, Patagonia and MUJI reference books, bringing Discover to twelve examples, with credited artwork and clearly labelled type comparisons.
+
 ## 24 November 2026 — food, fashion and lifestyle
 
 - Add complete Burger King, Levi’s and IKEA reference books, bringing Discover to nine examples.

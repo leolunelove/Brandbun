@@ -4,6 +4,28 @@ These independent studies demonstrate a completed brandbun guide. They are not g
 
 `manifest.json` records each exact source URL, byte size, dimensions where applicable, and SHA-256. Images and fonts are bundled locally, so reading a study does not hotlink third-party files. Source guidelines can change; recheck them before updating a study.
 
+## Oatly — prepared 25 November 2026
+
+- Original 512px identity PNG: https://www.oatly.com/images/oatly-logo.png (linked in the official website's organisation metadata). White background and source pixels are preserved.
+- Packaging and lifestyle photography: https://www.oatly.com/en-gb ; exact Storyblok asset/rendition URLs are recorded in the manifest. Uncropped web renditions, 1400px and 1000px respectively.
+- Blue `#98C5D3`, black and white are sampled from the identity PNG, not certified production colours. Typeface specimens are explicitly Arial comparisons; no proprietary font files are bundled.
+- Artwork credited to Oatly. The public packaging film is linked as context: https://www.youtube.com/watch?v=EAqKK9QfsXI . No endorsement or blanket reuse licence is implied.
+
+## Patagonia — prepared 25 November 2026
+
+- Wordmark: https://commons.wikimedia.org/wiki/File:Patagonia_(Unternehmen)_logo.svg . Unmodified vector reproduction, converted by Marsupilami according to its file history. Source SVG ink is `#231F20`; trademark rights remain with Patagonia.
+- Mountain photograph: https://www.patagoniaworks.com/ . Unmodified published 1400px homepage image. Its filename includes `schaefer_m_0631`; photographer identity was not independently confirmed, so no inferred personal credit is asserted.
+- Trail-running photograph from https://www.patagonia.com/home/ : Ken Etzel / Patagonia; the page identifies Tori Orlowski in the Sierra Nevada, California. Bundled 1400px web rendition.
+- Supporting blue, cloud and stone tones are editorial selections. Georgia / Arial is an editorial comparison, not official typography. No proprietary brand fonts are redistributed.
+- Exact sources, source pages, credits and file hashes appear in the manifest. These references do not authorise commercial reuse of photography or marks.
+
+## MUJI — prepared 25 November 2026
+
+- Original black Latin/Japanese lockup and photography: https://www.muji.eu/pages/about-muji.html . Artwork credited to MUJI / Ryohin Keikaku.
+- Two uncropped 1280px public web renditions show craft/process and everyday living. Original source composition and SVG lettering are preserved; CDN URLs are recorded in the manifest.
+- Black follows the supplied lockup. Linen, timber and paper are editorial study tones, not an official palette. Type specimens are labelled Arial comparisons rather than a verified brand typeface.
+- Links to materials, design and MUJI life use the page's observed anchor IDs. This independent introduction does not grant a reuse licence.
+
 ## GitHub
 
 - Logo files: https://brand.github.com/foundations/logo (official ZIP, selected unmodified SVGs).
